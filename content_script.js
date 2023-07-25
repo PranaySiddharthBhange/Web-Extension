@@ -101,9 +101,9 @@ document.addEventListener("mouseup", function (event) {
             meaningsContainer.remove();
           });
 
-          setTimeout(function () {
-            meaningsContainer.remove();
-          }, 5000);
+          // setTimeout(function () {
+          //   meaningsContainer.remove();
+          // }, 5000);
 
 
 
