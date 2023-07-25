@@ -1,6 +1,6 @@
 # WordMeanings Web Extension
 
-![WordMeanings Logo](https://example.com/wordmeanings-logo.png)
+![WordMeanings](https://cdn-icons-png.flaticon.com/128/10370/10370073.png)
 
 Welcome to WordMeanings - a powerful and convenient web extension that brings word meanings to your fingertips! With WordMeanings, you can easily find the definitions of any selected word from any web page, without having to leave your current tab. This extension enhances your browsing experience and productivity by providing instant access to a vast dictionary of words.
 
